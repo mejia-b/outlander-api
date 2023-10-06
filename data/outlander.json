@@ -1,0 +1,49 @@
+{
+    "seasons": [
+        {
+            "season_number":1,
+            "episodes":[
+                {"episode_number":1, "title": "Sassenach", "description":"1945 England: Claire Randall reunites with her husband after five years of war. A second honeymoon goes awry when she falls back through time to 1740's Scotland.", "air_date":"Sat, Aug 9, 2014", "rating":8.3},
+                {"episode_number":2, "title": "Castle Leoch", "description":"Claire is brought to Castle Leoch under suspicion as an English spy. Learning that the year is 1743, she tries to arrange travel back to the standing stones. Colum MacKenzie uses her ability as a healer as an excuse to detain her.", "air_date":"Sat, Aug 16, 2014", "rating":8.3},
+                {"episode_number":3, "title": "The Way Out", "description":"Claire's abilities as a healer puts her at odds with the town priest when she saves a boy's life, and deepens the suspicions against her. Hearing a folk-tale, Claire realizes that she may be able to travel back through the stones to Frank.", "air_date":"Sat, Aug 23, 2014", "rating":8.5},
+                {"episode_number":4, "title": "The Gathering", "description":"The Gathering shows Claire's attempt at her first real planned escape. The run-ins she has with various characters on the way include a major run-in with Dougal, and yet another moment with Jamie alone - building their relationship. Also an oath-taking ceremony could have awful results if not handled carefully.", "air_date":"Sat, Aug 30, 2014", "rating":8.5},
+                {"episode_number":5, "title": "Rent", "description":"Claire goes on the road with Dougal as he collects rents from the tenants. She meets the clans solicitor who is riding with them. She also becomes aware of Dougal's involvement in trying to raise money for the Jacobite rebellion.", "air_date":"Sat, Sep 6, 2014", "rating":8.6},
+                {"episode_number":6, "title": "The Garrison Commander", "description":"Claire and Dougal are questioned at the local garrison.", "air_date":"Sat, Sep 13, 2014", "rating":9.0},
+                {"episode_number":7, "title": "The Wedding", "description":"Marriage to a Scot seems to be the only legal way out to save Claire from falling into the paws of Black Jack Randall.", "air_date":"Sat, Sep 20, 2014", "rating":8.8},
+                {"episode_number":8, "title": "Both Sides Now", "description":"In 1945, Frank is still seeking Claire, but is starting to lose hope of ever finding her. Meanwhile in 1743, Claire is trying to come to terms with her marriage to Jamie. While traveling, a life changing opportunity arises.", "air_date":"Sat, Sep 27, 2014", "rating":8.8},
+                {"episode_number":9, "title": "The Reckoning", "description":"Jamie and the Highlanders attempt to rescue Claire from Black Jack Randall.", "air_date":"Sat, Apr 4, 2015", "rating":8.4},
+                {"episode_number":10, "title": "By the Pricking of My Thumbs", "description":"Jamie hopes the Duke of Sandringham can help remove the price on his head.", "air_date":"Sat, Apr 11, 2015", "rating":8.3},
+                {"episode_number":11, "title": "The Devil's Mark", "description":"Claire and Geillis stand trial for witchcraft; Claire learns a secret about Geillis' past.", "air_date":"Sat, Apr 18, 2015", "rating":9.2},
+                {"episode_number":12, "title": "Lallybroch", "description":"Old wounds are reopened when Jamie returns to his family home.", "air_date":"Sat, Apr 25, 2015", "rating":8.4},
+                {"episode_number":13, "title": "The Watch", "description":"A Redcoat deserter from Jamie's past returns; Jenny goes into labor; Jamie and Ian join the Watch.", "air_date":"Sat, May 2, 2015", "rating":8.3},
+                {"episode_number":14, "title": "The Search", "description":"Claire and Jenny set out to rescue Jamie from his redcoat captors; unorthodox tactics are used.", "air_date":"Sat, May 9, 2015", "rating":8.1},
+                {"episode_number":15, "title": "Wentworth Prison", "description":"A visit from Black Jack causes Jamie to realize a fate exists that is worse than his death sentence.", "air_date":"Sat, May 16, 2015", "rating":8.7},
+                {"episode_number":16, "title": "To Ransom a Man's Soul", "description":"Jamie is freed following a daring rescue, but his mind lingers on the torture he endured.", "air_date":"Sat, May 30, 2015", "rating":8.3}
+            ]
+        },
+        {
+            "season_number":2,
+            "episodes":[{},{},{},{},{},{},{},{},{},{},{},{},{}]
+        },
+        {
+            "season_number":3,
+            "episodes":[{},{},{},{},{},{},{},{},{},{},{},{},{}]
+        },
+        {
+            "season_number":4,
+            "episodes":[{},{},{},{},{},{},{},{},{},{},{},{},{}]
+        },
+        {
+            "season_number":5,
+            "episodes":[{},{},{},{},{},{},{},{},{},{},{},{}]
+        },
+        {
+            "season_number":6,
+            "episodes":[{},{},{},{},{},{},{},{}]
+        },
+        {
+            "season_number":7,
+            "episodes":[{},{},{},{},{},{},{},{}]
+        }
+    ]
+}
