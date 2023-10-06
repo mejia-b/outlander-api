@@ -59,7 +59,21 @@
         },
         {
             "season_number":4,
-            "episodes":[{},{},{},{},{},{},{},{},{},{},{},{},{}]
+            "episodes":[
+                {"episode_number":1, "title": "America the Beautiful", "description":"Claire and Jamie cross paths with Stephen Bonnet, a pirate and smuggler who enlists their help. Claire illuminates Jamie on some of America's history, leading him to wonder if it's possible for them to lay down roots.", "air_date":"Sun, Nov 4, 2018", "rating":8.2},
+                {"episode_number":2, "title": "Do No Harm", "description":"Claire and Jamie visit his Aunt Jocasta at her plantation, River Run. When tragedy strikes at the plantation, Jamie and Claire find themselves caught between what's right and the law of the land.", "air_date":"Sun, Nov 11, 2018", "rating":8.2},
+                {"episode_number":3, "title": "The False Bride", "description":"Jamie and Claire search for a place to call home. Meanwhile, in the 20th century, Brianna and Roger's romance heats up and then fizzles during a road trip that winds up highlighting their differences.", "air_date":"Sun, Nov 18, 2018", "rating":8.3},
+                {"episode_number":4, "title": "Common Ground", "description":"Having been led by providence to Fraser's Ridge, Jamie, Claire and Young Ian begin to build a home in the Blue Ridge Mountains. In the 20th Century, Roger tries to reconnect with Brianna.", "air_date":"Sun, Nov 25, 2018", "rating":8.5},
+                {"episode_number":5, "title": "Savages", "description":"Claire's medical expertise proves invaluable, but she begins to fear for her life when tragedy strikes her patients' household. Jamie and Young Ian travel to a nearby town to recruit settlers for Fraser's Ridge.", "air_date":"Sun, Dec 2, 2018", "rating":8.8},
+                {"episode_number":6, "title": "Blood of My Blood", "description":"Jamie and Claire are surprised when Lord John Grey drops in on Fraser's Ridge with an unexpected traveling companion; when Grey takes ill, Claire must reconcile her personal feelings with her duties as a doctor.", "air_date":"Sun, Dec 9, 2018", "rating":8.5},
+                {"episode_number":7, "title": "Down the Rabbit Hole", "description":"Brianna follows in her mother's footsteps and travels through the stones back in time to 18th century Scotland, where she struggles to make her way to the Colonies to find her parents", "air_date":"Sun, Dec 16, 2018", "rating":8.4},
+                {"episode_number":8, "title": "Wilmington", "description":"Roger's diligent search for Brianna pays off when he finds her in Wilmington, but their romantic reunion comes to an abrupt halt when she discovered pertinent information that he intentionally kept from her.", "air_date":"Sun, Dec 23, 2018", "rating":8.5},
+                {"episode_number":9, "title": "The Birds and The Bees", "description":"As Brianna struggles to compartmentalize the trauma she suffered in the wake of the tragedy that befell her in Wilmington, she refocuses on finding her parents.", "air_date":"Sun, Dec 30, 2018", "rating":9.1},
+                {"episode_number":10, "title": "The Deep Heart's Core", "description":"Jamie and Claire keep secrets from one another as they try to help Brianna process her recent trauma; however, the secrets they keep cause a bigger familial rift once they are revealed.", "air_date":"Sun, Jan 6, 2019", "rating":8.3},
+                {"episode_number":11, "title": "If Not For Hope", "description":"Jamie, Claire and Young Ian embark on a long and uncertain journey to rescue Roger, while Brianna forges a friendship with one of Jamie's old friends.", "air_date":"Sun, Jan 13, 2019", "rating":8.3},
+                {"episode_number":12, "title": "Providence", "description":"Brianna confronts a violent figure from her past in an attempt to cope with her trauma; Roger befriends a fellow captive and endeavors to escape the Mohawk Village, while Fergus and Marsali plan a dangerous mission.", "air_date":"Sun, Jan 20, 2019", "rating":8.7},
+                {"episode_number":13, "title": "Man of Worth", "description":"The attempt to rescue Roger from his Mohawk captors goes awry when a ghost from Claire's past lays waste to their plan. Meanwhile, a heavily pregnant Brianna anxiously awaits their return at River Run.", "air_date":"Sun, Jan 27, 2019", "rating":8.8}
+            ]
         },
         {
             "season_number":5,
