@@ -94,7 +94,16 @@
         },
         {
             "season_number":6,
-            "episodes":[{},{},{},{},{},{},{},{}]
+            "episodes":[
+                {"episode_number":1, "title": "Echoes", "description":"Claire and Jamie continue the fight to protect those they love, as the threat of the Revolutionary War looms over Fraser's Ridge.", "air_date":"Sun, Mar 6, 2022", "rating":8.0},
+                {"episode_number":2, "title": "Allegiance", "description":"Jamie struggles with his first request as Indian Agent. Roger presides over an unusual funeral. Marsali gives birth. However, the joy is short lived when a discovery is made.", "air_date":"Sun, Mar 13, 2022", "rating":8.0},
+                {"episode_number":3, "title": "Temperance", "description":"Fergus worries about his new son's quality of life when the baby is bullied by superstitious Protestants. Claire performs surgery on Tom's hand.", "air_date":"Sun, Mar 20, 2022", "rating":8.0},
+                {"episode_number":4, "title": "Hour of the Wolf", "description":"Ian reveals to Jamie his life among the Mohawks. Jamie tells Chief Bird something he should consider in the future.", "air_date":"Sun, Mar 27, 2022", "rating":8.0},
+                {"episode_number":5, "title": "Give Me Liberty", "description":"There is something in the air. Jamie and lord John talk about politics. Roger receives an excellent news.", "air_date":"Sun, Apr 3, 2022", "rating":8.0},
+                {"episode_number":6, "title": "The World Turned Upside Down", "description":"A dysentery epidemic spreads on the Ridge, and Claire falls deathly ill. She is almost recovered when the Christies arrive and drop a bombshell. As nefarious rumors spread like wildfire on the Ridge, tragedy strikes.", "air_date":"Sun, Apr 10, 2022", "rating":8.2},
+                {"episode_number":7, "title": "Sticks and Stones", "description":"Claire struggles with her inner demons as a nefarious rumor begins to spread on the Ridge. Tensions rise as residents fear there is a dangerous person in their midst.", "air_date":"Sun, Apr 24, 2022", "rating":7.4},
+                {"episode_number":8, "title": "I Am Not Alone", "description":"Richard Brown and his Committee of Safety arrive to arrest Claire for murder. However, due to the rising political tensions in the colonies, Brown's plan to find a judge for a trial does not go as expected.", "air_date":"Sun, May 1, 2022", "rating":8.0}
+            ]
         },
         {
             "season_number":7,
