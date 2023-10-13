@@ -107,7 +107,16 @@
         },
         {
             "season_number":7,
-            "episodes":[{},{},{},{},{},{},{},{}]
+            "episodes":[
+                {"episode_number":1, "title": "A Life Well Lost", "description":"Jamie races towards Wilmington to rescue Claire from the gallows, only to discover that the American Revolution has well and truly reached North Carolina.", "air_date":"Fri, Jun 16, 2023", "rating":8.4},
+                {"episode_number":2, "title": "The Happiest Place on Earth", "description":"Claire makes a startling discovery about Roger and Brianna's newborn daughter. A familiar face returns to the Ridge with explosive consequences.", "air_date":"Fri, Jun 23, 2023", "rating":8.8},
+                {"episode_number":3, "title": "Death Be Not Proud", "description":"Jamie discovers Arch Bug has been keeping a dangerous secret. In the 20th century, Roger and Brianna find a link to Jamie and Claire.", "air_date":"Fri, Jun 30, 2023", "rating":8.3},
+                {"episode_number":4, "title": "A Most Uncomfortable Woman", "description":"On the way to Scotland, Jamie is pulled back into the Revolutionary War. William is sent on a covert mission. Roger and Brianna struggle to adapt to life in the 1980s", "air_date":"Fri, Jul 7, 2023", "rating":8.2},
+                {"episode_number":5, "title": "Singapore", "description":"At Ticonderoga, Jamie and Claire prepare for an imminent British assault. Roger compiles information about time travel while Brianna earns the respect of her coworkers.", "air_date":"Fri, Jul 14, 2023", "rating":8.1},
+                {"episode_number":6, "title": "Where the Waters Meet", "description":"Jamie and Claire help civilians flee Ticonderoga after the fort falls into British hands; Roger discovers the identity of the mysterious 'Nuckelavee.'", "air_date":"Fri, Jul 21, 2023", "rating":8.1},
+                {"episode_number":7, "title": "A Practical Guide for Time-Travelers", "description":"Jamie prepares to face British forces in battle. Roger and Brianna question Buck MacKenzie's intentions in the 20th century; William fights in the First Battle of Saratoga.", "air_date":"Fri, Jul 28, 2023", "rating":8.3},
+                {"episode_number":8, "title": "Turning Points", "description":"Jamie fights in the pivotal Second Battle of Saratoga. Roger and Brianna search for Jemmy.", "air_date":"Fri, Aug 11, 2023", "rating":8.9}
+            ]
         }
     ]
 }
