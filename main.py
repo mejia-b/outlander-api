@@ -26,3 +26,13 @@ async def get_season(season_number: int):
         if season["season_number"] == season_number:
             return season
     raise HTTPException(status_code= status.HTTP_404_NOT_FOUND, detail= "Season not found.")
+
+# endpoint for all episodes from a specific season
+@app.get("/seasons/{season_number}/all_episodes", response_model= List[Episode])
+async def get_season_episodes(season_number: int):
+    for season in show_data["seasons"]:
+        if season["season_number"] == season_number:
+            return season["episodes"]
+    raise HTTPException(status_code= status.HTTP_404_NOT_FOUND, detail= "Season not found.")
+
+# endpoint for sinle episode form a specific season
