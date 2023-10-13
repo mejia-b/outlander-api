@@ -77,7 +77,20 @@
         },
         {
             "season_number":5,
-            "episodes":[{},{},{},{},{},{},{},{},{},{},{},{}]
+            "episodes":[
+                {"episode_number":1, "title": "The Fiery Cross", "description":"The celebrations in honor of the wedding of Brianna and Roger. Governor Tryon reminds Jamie of his obligation to persecute and kill Murtagh Fitzgibbons.", "air_date":"Fri, Feb 14, 2020", "rating":8.4},
+                {"episode_number":2, "title": "Between Two Fires", "description":"As Jamie continues to hunt Murtagh with the aid of the zealous Lieutenant Hamilton Knox, he's forced to consider whether or not he's on the right side of history.", "air_date":"Sun, Feb 23, 2020", "rating":8.1},
+                {"episode_number":3, "title": "Free Will", "description":"The growing Regulator threat forces Jamie, Claire and Roger to embark on a mission to raise a militia.", "air_date":"Sun, Mar 1, 2020", "rating":8.2},
+                {"episode_number":4, "title": "The Company We Keep", "description":"Roger leads Jamie's militia to the trading post of Brownsville and finds himself embroiled in a bitter feud. Jamie and Claire arrive to find that Roger's unusual strategy may have cost them the loyalty of the militia.", "air_date":"Sun, Mar 8, 2020", "rating":8.0},
+                {"episode_number":5, "title": "Perpetual Adoration", "description":"Jamie and his militia arrive at Hillsborough to learn that Governor Tryon has proposed a rather unorthodox solution to deal with the threat posed by the Regulators and to resolve the growing political crisis.", "air_date":"Sun, Mar 15, 2020", "rating":8.2},
+                {"episode_number":6, "title": "Better to Marry Than Burn", "description":"At Jocasta's wedding, Jamie learns Tryon's true motivation for ending the Regulator threat.", "air_date":"Sun, Mar 22, 2020", "rating":8.1},
+                {"episode_number":7, "title": "The Ballad of Roger Mac", "description":"The Regulator Rebellion reaches a boiling point, forcing Jamie to face his fear and confront the consequence of his divided loyalties.", "air_date":"Sun, Mar 29, 2020", "rating":9.1},
+                {"episode_number":8, "title": "Famous Last Words", "description":"The Frasers must come to terms with all that has changed in the aftermath of the Battle of Alamance Creek. Brianna tries to help Roger overcome the trauma he has endured. An unexpected visitor arrives at the Ridge.", "air_date":"Sun, Apr 12, 2020", "rating":8.1},
+                {"episode_number":9, "title": "Monsters and Heroes", "description":"When Jamie is bitten by a venomous snake, Claire fears she may not have the resources to save him; Jamie asks Roger to complete an important task in the event of his death.", "air_date":"Sun, Apr 19, 2020", "rating":8.3},
+                {"episode_number":10, "title": "Mercy Shall Follow Me", "description":"Jamie and Roger implement their plan to eliminate the threat looming over them, but it goes awry; Brianna is forced to confront her greatest fear and fight for her and her son's lives.", "air_date":"Sun, Apr 26, 2020", "rating":8.5},
+                {"episode_number":11, "title": "Journeycake", "description":"Roger and Brianna need to decide if they want to stay or return to the future; Jamie discovers a new power that started from an unrest in the backcountry.", "air_date":"Sun, May 3, 2020", "rating":8.9},
+                {"episode_number":12, "title": "Never My Love", "description":"Claire struggles to survive brutal treatment from her captors, as Jamie gathers a group of loyal men to help him rescue his wife; Roger and Brianna's journey takes a surprising turn.", "air_date":"Sun, May 10, 2020", "rating":8.8}
+            ]
         },
         {
             "season_number":6,
