@@ -1,18 +1,25 @@
-from fastapi import FastAPI,HTTPException, status
+from fastapi import FastAPI,Request,HTTPException, status
+from fastapi.staticfiles import StaticFiles
+from fastapi.templating import Jinja2Templates
 from typing import List
 from models import Episode, Season
 import json
+
+# template directory
+templates = Jinja2Templates(directory="templates")
+
 # instatiate app
 app = FastAPI()
-
+app.mount("/static", StaticFiles(directory="static"), name="static")
 # read in json data
 with open('data/outlander.json') as f:
     show_data: dict = json.load(f)
 
 # homepage endpoint
 @app.get("/",include_in_schema=False)
-async def get_homepage():
-    return {"message": "Hello World"}
+async def get_homepage(request: Request):
+    image_path = request.url_for("static", path="jamie_claire.jpg")
+    return templates.TemplateResponse("index.html",{"request":request, "image_path":image_path})
 
 # endpoint for all seasons
 @app.get("/seasons", response_model=List[Season])
