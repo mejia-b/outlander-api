@@ -3,7 +3,7 @@ An API for the show Outlander, with the use of FastAPI using python. A few endpo
 
 - GET all seasons up to this date.
 - GET a single season. Available seasons are 1-7.
-- GET all episodes up to this date.
+- GET all episodes from a specific season.
 - GET a single episode from a specific season.
   
 # Try it out:
