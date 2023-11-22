@@ -7,8 +7,8 @@ An API for the show Outlander, with the use of FastAPI using python. A few endpo
 - GET a single episode from a specific season.
   
 # Try it out:
-- [Outlander Web API](https://outlander-api-web-f3b9404133af.herokuapp.com/)
-- [Documentation](https://outlander-api-web-f3b9404133af.herokuapp.com/docs)
+- [Outlander Web API](https://outlander-api.onrender.com/)
+- [Documentation](https://outlander-api.onrender.com/docs)
   
 ![Outlander API Homepage](/static/outlander_api_homepage_r.png)
 
